@@ -46,7 +46,7 @@ Always building, always learning! 🚀
 - Full Stack Development Internship at **Cognifyz Technologies**
 --- 
 ## 📫 Contact Me
-- Email: shrutika@example.com  
+- Email: shruti.ghosarawade@gmail.com 
 - LinkedIn: [linkedin.com/in/shrutika-G](https://www.linkedin.com/in/shrutika-G)  
 - GitHub: [github.com/shrutika-G](https://github.com/shrutika-G)  
 
