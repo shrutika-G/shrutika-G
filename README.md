@@ -49,7 +49,6 @@ Always building, always learning! 🚀
 - Email: shrutika@example.com  
 - LinkedIn: [linkedin.com/in/shrutika-G](https://www.linkedin.com/in/shrutika-G)  
 - GitHub: [github.com/shrutika-G](https://github.com/shrutika-G)  
-- Kaggle: [your-kaggle-link](https://www.kaggle.com/)  
 
 ---
 
