@@ -22,7 +22,7 @@ Java, SQL, C
 HTML, CSS
 
 **Database:**
-MYSQL
+MySQL
 
 **Tools & Platforms:**
 Git, GitHub, VS Code
