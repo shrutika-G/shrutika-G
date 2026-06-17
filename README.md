@@ -22,10 +22,10 @@ Java, SQL, C
 HTML, CSS
 
 **Database:**
-SQL
+MYSQL
 
 **Tools & Platforms:**
-Git, GitHub, VS Code, Postman
+Git, GitHub, VS Code
 
 ---
 
