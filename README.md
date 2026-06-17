@@ -68,7 +68,7 @@ KLE Independent PU College, Nipani
 ## 📫 Contact
 
 * 📧 Email: [shruti.ghosarawade@gmail.com](mailto:shruti.ghosarawade@gmail.com)
-* 💼 LinkedIn: linkedin.com/in/shrutika-ghosarawade-12366a268
+* 💼 LinkedIn: [linkedin.com/in/shrutika-ghosarawade-12366a268](https://www.linkedin.com/in/shrutika-ghosarawade-12366a268/)
 * 💻 GitHub: https://github.com/shrutika-G
 
 ---
