@@ -5,13 +5,13 @@
 I am a Computer Science Engineering student passionate about software development, problem-solving, and building real-world applications.
 I enjoy working on backend logic, databases, and web development fundamentals, and I am continuously improving my skills in **Core Java, SQL, and Web Technologies**.
 
----
+
 
 ## 🎯 Career Objective
 
 To secure a responsible position in the IT industry where I can utilize my technical skills, enhance my knowledge, and contribute to real-world software solutions while growing as a professional developer.
 
----
+
 
 ## 🛠️ Technical Skills
 
@@ -27,7 +27,6 @@ MySQL
 **Tools & Platforms:**
 Git, GitHub, VS Code
 
----
 
 ## 📂 Projects
 
@@ -43,7 +42,7 @@ A web-based application designed to help users manage income and expenses effici
 
 An interactive web-based assistant that performs user commands and provides a smooth UI experience using modern web technologies.
 
----
+
 
 ## 🎓 Education
 
@@ -55,7 +54,7 @@ KLE College of Engineering & Technology, Chikodi
 KLE Independent PU College, Nipani
 2020 – 2022
 
----
+
 
 ## 🏆 Certifications & Experience
 
@@ -63,7 +62,7 @@ KLE Independent PU College, Nipani
 * Java Full Stack Development Internship – Pentagon Space
   
 
----
+
 
 ## 📫 Contact
 
@@ -71,7 +70,6 @@ KLE Independent PU College, Nipani
 * 💼 LinkedIn: [linkedin.com/in/shrutika-ghosarawade-12366a268](https://www.linkedin.com/in/shrutika-ghosarawade-12366a268/)
 * 💻 GitHub: https://github.com/shrutika-G
 
----
 
 ## 📊 GitHub Stats
 
