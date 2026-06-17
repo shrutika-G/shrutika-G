@@ -1,56 +1,81 @@
-# Hi 👋, I'm Shrutika!
+# 👋 Hi, I'm Shrutika Ghosarawade
 
-## 🌟 About Me
-I’m a Computer Science student passionate about **full-stack development**, especially with the **MERN stack** (MongoDB, Express.js, React, Node.js).  
-Currently, I’m sharpening my **problem-solving skills** through **Data Structures and Algorithms using Java**.  
-Always building, always learning! 🚀
+## 💡 About Me
 
----
-
-## 🎯 Focus
-**MERN Stack Development | React | Node.js | MongoDB | JavaScript | Web Development**
+I am a Computer Science Engineering student passionate about software development, problem-solving, and building real-world applications.
+I enjoy working on backend logic, databases, and web development fundamentals, and I am continuously improving my skills in **Core Java, SQL, and Web Technologies**.
 
 ---
 
-## 🌱 Currently Learning
-- Blockchain & Smart Contracts  
-- Advanced Data Structures & Algorithms  
-- Full-stack Project Deployment & Optimization
----
-## 🛠️ Skills & Tools
-- **Languages:** JavaScript, Java, Python, C  
-- **Frontend:** React, HTML, CSS, Bootstrap  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, SQL  
-- **Other Tools:** Git, GitHub, VS Code, Postman
----
+## 🎯 Career Objective
 
-## 📂 Featured Projects
-- **[Virtual Assistant | Web Development](https://virtual-assistant-xhe6.onrender.com)**  
-  A full-stack virtual assistant web application built using React and Node.js.
-
-- **[Tic Tac Toe | React Project](https://tic-tac-toe-6nr9.onrender.com)**  
-  Interactive Tic Tac Toe game showcasing state management with React hooks.
+To secure a responsible position in the IT industry where I can utilize my technical skills, enhance my knowledge, and contribute to real-world software solutions while growing as a professional developer.
 
 ---
+
+## 🛠️ Technical Skills
+
+**Programming Languages:**
+Java, SQL, Python, C
+
+**Frontend Development:**
+HTML, CSS
+
+**Database:**
+MySQL, MongoDB
+
+**Tools & Platforms:**
+Git, GitHub, VS Code, Postman
+
+---
+
+## 📂 Projects
+
+### 🔐 Smart M-Banking Using Blockchain
+
+A secure banking system built using blockchain technology to ensure transparency, data integrity, and tamper-proof financial transactions.
+
+### 💰 Smart Expense Tracker
+
+A web-based application designed to help users manage income and expenses efficiently with a simple and user-friendly interface.
+
+### 🤖 Virtual Assistant Web Application
+
+An interactive web-based assistant that performs user commands and provides a smooth UI experience using modern web technologies.
+
+---
+
 ## 🎓 Education
-**Bachelor of Engineering, Computer Science**  
-*KLE College of Engineering & Technology, Chikodi, Karnataka, India (2022 - 2026)*  
 
-**Pre-University (PUC)**  
-*KLE Independent PU College, Nipani (Aug 2020 - Jun 2022)*  
+**Bachelor of Engineering (Computer Science)**
+KLE College of Engineering & Technology, Chikodi
+2022 – 2026
+
+**Pre-University Course (PUC)**
+KLE Independent PU College, Nipani
+2020 – 2022
 
 ---
-## 🏆 Achievements
-- Completed **Delta Full Stack Web Development Course** from Apna College 🚀  
-- Full Stack Development Internship at **Cognifyz Technologies**
---- 
-## 📫 Contact Me
-- Email: shruti.ghosarawade@gmail.com 
-- LinkedIn: [linkedin.com/in/shrutika-G](https://www.linkedin.com/in/shrutika-G)  
-- GitHub: [github.com/shrutika-G](https://github.com/shrutika-G)  
+
+## 🏆 Certifications & Experience
+
+* Full Stack Development Internship – Cognifyz Technologies
+* Java Full Stack Development Internship – Pentagon Space
+* Various certifications in Web Development, Python, and Data Analysis
+
+---
+
+## 📫 Contact
+
+* 📧 Email: [shruti.ghosarawade@gmail.com](mailto:shruti.ghosarawade@gmail.com)
+* 💼 LinkedIn: linkedin.com/in/shrutika-ghosarawade-12366a268
+* 💻 GitHub: https://github.com/shrutika-G
 
 ---
 
 ## 📊 GitHub Stats
-![Shrutika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrutika-G&show_icons=true&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrutika-G\&show_icons=true\&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutika-G\&layout=compact\&theme=radical)
+
