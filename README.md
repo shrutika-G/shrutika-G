@@ -16,13 +16,13 @@ To secure a responsible position in the IT industry where I can utilize my techn
 ## 🛠️ Technical Skills
 
 **Programming Languages:**
-Java, SQL, Python, C
+Java, SQL, C
 
 **Frontend Development:**
 HTML, CSS
 
 **Database:**
-MySQL, MongoDB
+SQL
 
 **Tools & Platforms:**
 Git, GitHub, VS Code, Postman
@@ -61,7 +61,7 @@ KLE Independent PU College, Nipani
 
 * Full Stack Development Internship – Cognifyz Technologies
 * Java Full Stack Development Internship – Pentagon Space
-* Various certifications in Web Development, Python, and Data Analysis
+  
 
 ---
 
