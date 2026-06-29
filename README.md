@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Shrutika Ghosarawade
-
 <h1 align="center">Hi 👋, I'm Shrutika Ghosarawade</h1>
 <h3 align="center">Aspiring Java Full Stack Developer | Building real-world web applications</h3>
 
