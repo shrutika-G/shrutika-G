@@ -1,79 +1,78 @@
 # 👋 Hi, I'm Shrutika Ghosarawade
 
-## 💡 About Me
+💡 About Me
 
-I am a Computer Science Engineering student passionate about software development, problem-solving, and building real-world applications.
-I enjoy working on backend logic, databases, and web development fundamentals, and I am continuously improving my skills in **Core Java, SQL, and Web Technologies**.
-
+I'm a final-year Computer Science Engineering student who enjoys building practical, real-world applications using Java, Spring Boot, SQL, and web technologies. I've completed two full stack development internships and built multiple projects covering backend APIs, databases, and frontend interfaces. I'm currently looking for a full-time Software Developer / Java Developer role where I can keep growing and contribute to real production systems.
 
 
-## 🎯 Career Objective
+🛠️ Tech Stack
 
-To secure a responsible position in the IT industry where I can utilize my technical skills, enhance my knowledge, and contribute to real-world software solutions while growing as a professional developer.
+Languages:
+Show Image
+Show Image
+Show Image
 
+Backend:
+Show Image
 
+Frontend:
+Show Image
+Show Image
 
-## 🛠️ Technical Skills
+Database:
+Show Image
 
-**Programming Languages:**
-Java, SQL, C
-
-**Frontend Development:**
-HTML, CSS
-
-**Database:**
-MySQL
-
-**Tools & Platforms:**
-Git, GitHub, VS Code
-
-
-## 📂 Projects
-
-### 🔐 Smart M-Banking Using Blockchain
-
-A secure banking system built using blockchain technology to ensure transparency, data integrity, and tamper-proof financial transactions.
-
-### 💰 Smart Expense Tracker
-
-A web-based application designed to help users manage income and expenses efficiently with a simple and user-friendly interface.
-
-### 🤖 Virtual Assistant Web Application
-
-An interactive web-based assistant that performs user commands and provides a smooth UI experience using modern web technologies.
+Tools:
+Show Image
+Show Image
+Show Image
 
 
+📂 Featured Projects
 
-## 🎓 Education
+🔐 Secure Banking System with Blockchain
 
-**Bachelor of Engineering (Computer Science)**
-KLE College of Engineering & Technology, Chikodi
-2022 – 2026
+A mobile banking backend that uses custom blockchain logic (hash chaining + block validation) to make transaction records tamper-proof.
+Java Spring Boot MySQL REST API HTML/CSS/JS
 
-**Pre-University Course (PUC)**
-KLE Independent PU College, Nipani
-2020 – 2022
+💰 Smart Expense Tracker
 
+A full stack app to track income/expenses, categorize spending, and view financial summaries.
+Java Spring Boot MySQL REST API HTML/CSS/JS
 
+📚 Library Management System
 
-## 🏆 Certifications & Experience
+A Java-based system to manage book records, issue/return tracking, and member data.
+Java MySQL
 
-* Full Stack Development Internship – Cognifyz Technologies
-* Java Full Stack Development Internship – Pentagon Space
-  
+🤖 Virtual Assistant Web App
 
-
-
-## 📫 Contact
-
-* 📧 Email: [shruti.ghosarawade@gmail.com](mailto:shruti.ghosarawade@gmail.com)
-* 💼 LinkedIn: [linkedin.com/in/shrutika-ghosarawade-12366a268](https://www.linkedin.com/in/shrutika-ghosarawade-12366a268/)
-* 💻 GitHub: https://github.com/shrutika-G
+An interactive browser-based assistant that responds to user commands with a clean UI.
+HTML CSS JavaScript
 
 
-## 📊 GitHub Stats
+🎓 Education
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrutika-G\&show_icons=true\&theme=radical)
+B.E. in Computer Science Engineering — KLE College of Engineering & Technology, Chikodi (2022 – 2026)
+Pre-University Course (PCMB) — KLE Independent PU College, Nipani (2020 – 2022)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutika-G\&layout=compact\&theme=radical)
+
+🏆 Experience
+
+
+Java Full Stack Development Intern — Pentagon Space
+Full Stack Development Intern — Cognifyz Technologies
+
+
+
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shrutika-G&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutika-G&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+📫 Let's Connect
+
+📧 shruti.ghosarawade@gmail.com · 💼 LinkedInreadme-stats.vercel.app/api/top-langs/?username=shrutika-G\&layout=compact\&theme=radical)
 
