@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrutika Ghosarawade</h1>
-<h3 align="center">Aspiring Java Full Stack Developer | Building real-world web applications</h3>
+<h3 align="center">Java Full Stack Developer | B.E. CSE Graduate (2026) | Open to full-time opportunities</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shrutika-ghosarawade-12366a268/">
@@ -14,7 +14,7 @@
 
 ### 💡 About Me
 
-I'm a final-year Computer Science Engineering student who enjoys building practical, real-world applications using **Java, Spring Boot, SQL, and web technologies**. I've completed two full stack development internships and built multiple projects covering backend APIs, databases, and frontend interfaces. I'm currently looking for a full-time **Software Developer / Java Developer** role where I can keep growing and contribute to real production systems.
+I'm a Computer Science Engineering graduate (2026) who enjoys building practical, real-world applications using **Java, Spring Boot, SQL, and web technologies**. I've completed two full stack development internships and built multiple projects covering backend APIs, databases, and frontend interfaces. I'm currently looking for a full-time **Software Developer / Java Developer** role where I can contribute to real production systems and keep growing as an engineer.
 
 ---
 
@@ -64,7 +64,7 @@ An interactive browser-based assistant that responds to user commands with a cle
 
 ### 🎓 Education
 
-**B.E. in Computer Science Engineering** — KLE College of Engineering & Technology, Chikodi (2022 – 2026)
+**B.E. in Computer Science Engineering** — KLE College of Engineering & Technology, Chikodi (2022 – 2026) ✅ Graduated
 **Pre-University Course (PCMB)** — KLE Independent PU College, Nipani (2020 – 2022)
 
 ---
